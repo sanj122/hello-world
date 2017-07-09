@@ -1,2 +1,4 @@
 # hello-world
-hello this is new project
+ 
+ hi,
+ this is human
